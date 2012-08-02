@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MagaTxTemActivity!</string>
+    <string name="app_name">MagaTxTem</string>
+    <string name="inventari">Inventari</string>
+    <string name="cerca">Cerca</string>
+    <string name="identificaqr">Identifica QR</string>
+    <string name="enrere">Enrere</string>
+    <string name="sortir">Sortir</string>
+
+</resources>
